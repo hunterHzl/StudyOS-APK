@@ -4,7 +4,7 @@
 
 ## ⬇️ Download The latest StudyOS
 
-### 🟢 [DOWNLOAD STUDYOS 4.4.0 APK](https://github.com/hunterHzl/StudyOS-APK/releases/latest/download/StudyOS-release.apk)
+### 🟢 [DOWNLOAD STUDYOS 4.4.0 APK]([https://github.com/hunterHzl/StudyOS-APK/releases/latest/download/StudyOS-release.apk](https://github.com/hunterHzl/StudyOS-APK/blob/main/StudyOS-release.apk))
 
 **Latest version:** 4.4.0  
 **Platform:** Android  
