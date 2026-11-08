@@ -2,7 +2,7 @@
 
 **Your personal study and productivity companion.**
 
-## ⬇️ Download StudyOS
+## ⬇️ Download The latest StudyOS
 
 ### 🟢 [DOWNLOAD STUDYOS 4.4.0 APK](https://github.com/hunterHzl/StudyOS-APK/releases/latest/download/StudyOS-release.apk)
 
