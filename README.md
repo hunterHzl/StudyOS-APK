@@ -1,6 +1,27 @@
-# StudyOS-APK
-#StudyOS-krojet StudyOS is a modern, offline-first student productivity app designed to bring studying, planning, and academic progress into one workspace. Built for students who want a cleaner, more organised way to manage their academic life.
-# StudyOS 4.4.0 for Android (Capacitor) — build guide
+# 📚 StudyOS
+
+**Your personal study and productivity companion.**
+
+## ⬇️ Download StudyOS
+
+### 🟢 [DOWNLOAD STUDYOS 4.4.0 APK](https://github.com/hunterHzl/StudyOS-APK/releases/latest/download/StudyOS-release.apk)
+
+**Latest version:** 4.4.0  
+**Platform:** Android  
+**Package:** `com.hunterhz.studyos`
+
+1. Download the APK.
+2. Open the downloaded file on your Android phone.
+3. Allow installation from this source if Android asks.
+4. Install and enjoy StudyOS!
+
+---
+
+## About StudyOS
+
+StudyOS is a student productivity application designed to help you manage your study sessions, tasks, and progress.
+
+**Need an older version?** Visit [All Releases](https://github.com/hunterHzl/StudyOS-APK/releases).
 
 Developed by HunterHz · https://github.com/hunterHzl · app id `com.hunterhz.studyos`
 
